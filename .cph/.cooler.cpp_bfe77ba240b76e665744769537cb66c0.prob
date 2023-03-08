@@ -1,0 +1,1 @@
+{"name":"Local: cooler","url":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\cooler.cpp","tests":[{"id":1664103137189,"input":"3\n5 10 1\n5 10 2\n5 10 3","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\cooler.cpp","group":"local","local":true}

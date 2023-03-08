@@ -1,0 +1,1 @@
+{"name":"Local: cheapercab","url":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\cheapercab.cpp","tests":[{"id":1664002075558,"input":"3\n30 65\n42 42\n90 50","output":"FIRST\nANY\nSECOND"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\cheapercab.cpp","group":"local","local":true}

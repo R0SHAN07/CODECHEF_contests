@@ -1,0 +1,1 @@
+{"name":"Local: chefdate","url":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\chefdate.cpp","tests":[{"id":1664001458757,"input":"4\n1 1\n1 2\n2 1\n50 100","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\chefdate.cpp","group":"local","local":true}

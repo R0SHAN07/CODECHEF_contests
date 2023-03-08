@@ -1,0 +1,1 @@
+{"name":"Local: BreakELEMENT","url":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\BreakELEMENT.cpp","tests":[{"id":1664385446479,"input":"2\n4\n1 3 5 7\n3\n1 2 3","output":"0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\BreakELEMENT.cpp","group":"local","local":true}

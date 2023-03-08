@@ -1,0 +1,1 @@
+{"name":"Local: chessrating","url":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\chessrating.cpp","tests":[{"id":1664124981714,"input":"4\n10 10\n10 17\n10 18\n10 19","output":"0\n1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Roshan\\OneDrive\\Desktop\\CODECHEF_Contests\\chessrating.cpp","group":"local","local":true}
